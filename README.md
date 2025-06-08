@@ -1,7 +1,8 @@
 
 # Николин Роман Валерьевич
 
->**[Интерактивное портфолио](https://rabidus4k.github.io/portfolio/)**
+[Интерактивное портфолио](https://rabidus4k.github.io/portfolio/)
+
 ---
 
 **Unity 3D/2D Game Developer (Middle)**  
