@@ -1,17 +1,24 @@
 
 # Николин Роман Валерьевич
 
-[Интерактивное портфолио](https://rabidus4k.github.io/portfolio/)
+
+## [Интерактивное портфолио](https://rabidus4k.github.io/portfolio/)
+
+<p align="center">
+  <a href="https://rabidus4k.github.io/portfolio/">
+    <img src="https://imgur.com/oR0Xe8l/" alt="Game Banner" />
+  </a>
+</p>
 
 ---
 
-**Unity 3D/2D Game Developer (Middle)**  
-📍 Пенза  
-🎮 [Steam: Omega Pilot](https://store.steampowered.com/app/1933050/Omega_Pilot/)  
-🎮 [Steam: Presentiment of Death](https://store.steampowered.com/app/1970260/Presentiment_of_Death/)  
-🎮 [Steam: Rock and Roots](https://store.steampowered.com/app/2722380/Rock_and_Roots/)  
-🎮 [Yandex Games](https://yandex.ru/games/developer?name=RabidusGames)  
-📰 [Упоминание в СМИ](https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html)
+## 📌 Содержание
+
+- [Обо мне](#обо-мне)
+- [Ключевые навыки](#ключевые-навыки)
+- [Опыт работы](#опыт-работы)
+- [Образование](#образование)
+- [Проекты](#проекты)
 
 ---
 
