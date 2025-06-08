@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://rabidus4k.github.io/portfolio/">
-    <img src="https://imgur.com/oR0Xe8l/" alt="Game Banner" />
+    <img src="https://imgur.com/oR0Xe8l.png" alt="Game Banner" />
   </a>
 </p>
 
