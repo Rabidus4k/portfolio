@@ -67,7 +67,7 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 ### XOCUS, Penza 
 - **Junior Unity Developer (VR)** 
 - *August 2021 — August 2022* 
-- Projects: *Presentation of Death*, *Rock and Roots*. 
+- Projects: *Presentation of Death*, *Rock and Roots*, *Omega Pilot*. 
 - Work with Hurricane VR, Puppet Master, GUI integration, VFX/SFX.
 
 ### NTP Cryptosoft 
