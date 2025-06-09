@@ -44,37 +44,36 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 ## 💼 Work experience
 
 ### JOYWAY, Moscow 
-**Middle Unity Developer (VR, STEAM)** 
-*October 2024 — now* 
-Development of a VR-multiverse project.
-Game development for Steam.
+- **Middle Unity Developer (VR, STEAM)**
+- *October 2024 — now*
+- Development of a VR-multiverse project. Game development for Steam.
 
 ### TAU, Moscow 
-**Senior Unity Developer (VR)** 
-*February 2024 — October 2024* 
-Development of VR firefighting simulators with full immersion.
+- **Senior Unity Developer (VR)** 
+- *February 2024 — October 2024* 
+- Development of VR firefighting simulators with full immersion.
 
 ### WEB-SYSTEMA 
-**Middle Unity Developer (WebGL)** 
-*October 2024 — February 2024* 
-Hyper-Casual WebGL games for Yandex Games: mechanics, UI, bugfix.
+- **Middle Unity Developer (WebGL)** 
+- *October 2024 — February 2024* 
+- Hyper-Casual WebGL games for Yandex Games: mechanics, UI, bugfix.
 
 ### BOGG.ART, Penza 
-**Middle Unity Developer (VR)** 
-*June 2023 — October 2024* 
-Project: VR game "Flight over the Penza region" (VDNH). 
-Mechanic development, GUI migration to VR, realistic sound integration.
+- **Middle Unity Developer (VR)** 
+- *June 2023 — October 2024* 
+- Project: VR game "Flight over the Penza region" (VDNH). 
+- Mechanic development, GUI migration to VR, realistic sound integration.
 
 ### XOCUS, Penza 
-**Junior Unity Developer (VR)** 
-*August 2021 — August 2022* 
-Projects: *Presentation of Death*, *Rock and Roots*. 
-Work with Hurricane VR, Puppet Master, GUI integration, VFX/SFX.
+- **Junior Unity Developer (VR)** 
+- *August 2021 — August 2022* 
+- Projects: *Presentation of Death*, *Rock and Roots*. 
+- Work with Hurricane VR, Puppet Master, GUI integration, VFX/SFX.
 
 ### NTP Cryptosoft 
-**Junior C# Developer** 
-*June 2019 — August 2021* 
-Creating native C# code, implementing NPC physics, GUI, CI/CD.
+- **Junior C# Developer** 
+- *June 2019 — August 2021* 
+- Creating native C# code, implementing NPC physics, GUI, CI/CD.
 
 ---
 
