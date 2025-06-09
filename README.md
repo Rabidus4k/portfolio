@@ -88,16 +88,59 @@ Faculty: Institute of Informatics and Computer Engineering (IIT)
 
 ## 📂 Projects
 
-- **Alkahest** — https://store.steampowered.com/app/3016620/Alkahest/  
-- **Omega Pilot** — https://store.steampowered.com/app/1933050/Omega_Pilot/  
-- **Presentiment of Death** — https://store.steampowered.com/app/1970260/Presentiment_of_Death/  
-- **Rock and Roots** — https://store.steampowered.com/app/2722380/Rock_and_Roots/  
-- **Yandex Games** — https://yandex.ru/games/developer?name=RabidusGames  
-- **VDNH** — https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html
-- **The magic of knowledge** - https://vk.com/magiya_znanij
-- **VR Mendeleev Table**
+- **Alkahest** — https://store.steampowered.com/app/3016620/Alkahest/
+<p align="center">
+  <a href="https://store.steampowered.com/app/3016620/Alkahest/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3016620/ss_fcc4b279ac162d1430d832a304eaf40d1ee436bc.1920x1080.jpg" alt="Game Banner" />
+  </a>
+</p>
 
----
+- **Omega Pilot** — https://store.steampowered.com/app/1933050/Omega_Pilot/
+<p align="center">
+  <a href="https://store.steampowered.com/app/1933050/Omega_Pilot/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933050/ss_b6ecb3ad489378f1e05eb417a738c62088dfb5f4.1920x1080.jpg" alt="Game Banner" />
+  </a>
+</p>
+
+- **Presentiment of Death** — https://store.steampowered.com/app/1970260/Presentiment_of_Death/
+<p align="center">
+  <a href="https://store.steampowered.com/app/1970260/Presentiment_of_Death/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1970260/ss_f33791f3f4205cd43e129b45db89b2024e7b785b.1920x1080.jpg" alt="Game Banner" />
+  </a>
+</p>
+
+- **Rock and Roots** — https://store.steampowered.com/app/2722380/Rock_and_Roots/
+<p align="center">
+  <a href="https://store.steampowered.com/app/2722380/Rock_and_Roots/">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2722380/ss_64f10874457eba7ed7c575225d34348f8ba1de75.1920x1080.jpg" alt="Game Banner" />
+  </a>
+</p>
+
+- **Yandex Games** — https://yandex.ru/games/developer?name=RabidusGames
+<p align="center">
+  <a href="https://yandex.ru/games/developer?name=RabidusGames">
+    <img src="https://imgur.com/5pvg4YV.png" alt="Game Banner" />
+  </a>
+</p>
+
+- **VDNH** — https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html
+<p align="center">
+  <a href="https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html">
+    <img src="https://imgur.com/oKZvJcv.png" alt="Game Banner" />
+  </a>
+</p>
+
+- **The magic of knowledge** - https://vk.com/magiya_znanij
+<p align="center">
+  <a href="https://vk.com/magiya_znanij">
+    <img src="https://imgur.com/kYxR1qD.png" alt="Game Banner" />
+  </a>
+</p>
+
+- **VR Mendeleev Table**
+<p align="center">
+  <img src="https://imgur.com/JaQtxTJ.png" alt="Game Banner" />
+</p>
 
 ## 📌 Contacts
 
