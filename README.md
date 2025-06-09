@@ -1,8 +1,8 @@
 
-# Николин Роман Валерьевич
+# Nikolin Roman Valerievich
 
 
-## [Интерактивное портфолио](https://rabidus4k.github.io/portfolio/)
+## [Click to Play](https://rabidus4k.github.io/portfolio/)
 
 <p align="center">
   <a href="https://rabidus4k.github.io/portfolio/">
@@ -12,84 +12,85 @@
 
 ---
 
-## 📌 Содержание
+## 📌 Content
 
-- [Обо мне](#-обо-мне)
-- [Ключевые навыки](#%EF%B8%8F-ключевые-навыки)
-- [Опыт работы](#-опыт-работы)
-- [Образование](#-образование)
-- [Проекты](#-проекты)
-
----
-
-## 🧠 Обо мне
-Разработчик игр с более чем 5-летним опытом в Unity. Работал над коммерческими VR/2D/3D проектами, в том числе над собственными релизами на Steam и Yandex Games. Обладаю навыками создания как core-механик, так и систем GUI, физики, AI, SFX/VFX. Легко адаптируюсь к новым фреймворкам и требованиям проекта.
+- [About](#-about-me)
+- [Key skills](#%EF%B8%8F-key-skills)
+- [Work experience](#-work-experience)
+- [Education](#-education)
+- [Projects](#-projects)
 
 ---
 
-## 🛠️ Ключевые навыки
+## 🧠 About
+A game developer with over 5 years of experience in Unity. He has worked on commercial VR/2D/3D projects, including his own releases on Steam and Yandex Games. I have the skills to create both core mechanics and GUI, physics, AI, SFX/VFX systems. I easily adapt to new frameworks and project requirements.
+
+---
+
+## 🛠️ Key skills
 
 - **Game Engines:** Unity3D (2D/3D), SteamVR, VRTK, Hurricane VR  
-- **Программирование:** C#, LINQ, ООП, WebSocket, JSON  
-- **Сетевые технологии:** Photon Fusion, Photon PUN 2  
+- **Code:** C#, LINQ, ООП, WebSocket, JSON  
+- **Networking:** Photon Fusion, Photon PUN 2  
 - **AI & Контроллеры:** Invector AI, TPS/FPS, Game Creator 2  
 - **VR/AR:** ARKit/ARCore, OpenXR  
 - **UI/UX:** GUI в 2D и VR  
 - **CI/CD:** Git, Jira, Unity Cloud Build  
-- **Графика и звук:** Adobe Photoshop, интеграция SFX/VFX  
-- **Монетизация:** Admob, Unity Ads  
+- **Graphics and sound:** Adobe Photoshop, SFX/VFX, FMOD
+- **Ads:** Admob, Unity Ads  
 
 ---
 
-## 💼 Опыт работы
+## 💼 Work experience
 
-### JOYWAY, Москва  
-**Разработчик игр**  
-*Октябрь 2024 — по настоящее время*  
-Разработка VR-multiverse проекта.
-Разработка игры для Steam.
+### JOYWAY, Moscow 
+**Middle Unity Developer (VR, STEAM)** 
+*October 2024 — now* 
+Development of a VR-multiverse project.
+Game development for Steam.
 
-### TAU, Москва  
-**Старший разработчик игр (VR)**  
-*Февраль 2024 — Октябрь 2024*  
-Разработка VR-тренажёров по пожаротушению с полным погружением.
+### TAU, Moscow 
+**Senior Unity Developer (VR)** 
+*February 2024 — October 2024* 
+Development of VR firefighting simulators with full immersion.
 
-### BOGG.ART, Пенза  
-**Младший разработчик игр (VR)**  
-*Август 2022 — настоящее время*  
-Проект: VR-игра "Полёт над Пензенской областью" (ВДНХ).  
-Разработка механик, перенос GUI в VR, реалистичная интеграция звука.
+### WEB-SYSTEMA 
+**Middle Unity Developer (WebGL)** 
+*October 2024 — February 2024* 
+Hyper-Casual WebGL games for Yandex Games: mechanics, UI, bugfix.
 
-### WEB-SYSTEMA  
-**Разработчик игр (Middle)**  
-*Ноябрь 2023 — Февраль 2024*  
-Hyper-Casual Web-игры для Yandex Games: механики, UI, багфикс.
+### BOGG.ART, Penza 
+**Middle Unity Developer (VR)** 
+*June 2023 — October 2024* 
+Project: VR game "Flight over the Penza region" (VDNH). 
+Mechanic development, GUI migration to VR, realistic sound integration.
 
-### XOCUS, Пенза  
-**Младший разработчик игр (VR)**  
-*Август 2021 — Август 2022*  
-Проекты: *Presentiment of Death*, *Rock and Roots*.  
-Работа с Hurricane VR, Puppet Master, интеграция GUI, VFX/SFX.
+### XOCUS, Penza 
+**Junior Unity Developer (VR)** 
+*August 2021 — August 2022* 
+Projects: *Presentation of Death*, *Rock and Roots*. 
+Work with Hurricane VR, Puppet Master, GUI integration, VFX/SFX.
 
-### НТП Криптософт  
-**Младший разработчик приложений**  
-*Июнь 2019 — Август 2021*  
-Создание нативного C#-кода, внедрение физики NPC, GUI, CI/CD.
-
----
-
-## 🎓 Образование
-
-**Пензенский государственный университет (ПГУ, бывший ППИ)**  
-Факультет: Институт Информатики и вычислительной техники (ИИВТ)  
-*Сентябрь 2018 — Сентябрь 2022*
+### NTP Cryptosoft 
+**Junior C# Developer** 
+*June 2019 — August 2021* 
+Creating native C# code, implementing NPC physics, GUI, CI/CD.
 
 ---
 
-## 📂 Проекты
+## 🎓 Education
 
+**Penza State University (PSU, former PPI)** 
+Faculty: Institute of Informatics and Computer Engineering (IIT) 
+*September 2018 — September 2022*
+
+---
+
+## 📂 Projects
+
+- **Alkahest** — https://store.steampowered.com/app/3016620/Alkahest/  
 - **Omega Pilot** — https://store.steampowered.com/app/1933050/Omega_Pilot/  
 - **Presentiment of Death** — https://store.steampowered.com/app/1970260/Presentiment_of_Death/  
 - **Rock and Roots** — https://store.steampowered.com/app/2722380/Rock_and_Roots/  
 - **Yandex Games** — https://yandex.ru/games/developer?name=RabidusGames  
-- **ВДНХ** — https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html
+- **VDNH** — https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html
