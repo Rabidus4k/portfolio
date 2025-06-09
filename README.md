@@ -14,11 +14,12 @@
 
 ## 📌 Content
 
-- [About](#-about-me)
+- [About](#-about)
 - [Key skills](#%EF%B8%8F-key-skills)
 - [Work experience](#-work-experience)
 - [Education](#-education)
 - [Projects](#-projects)
+- [Contacts](#-contacts)
 
 ---
 
@@ -29,14 +30,14 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 
 ## 🛠️ Key skills
 
-- **Game Engines:** Unity3D (2D/3D), SteamVR, VRTK, Hurricane VR  
-- **Code:** C#, LINQ, ООП, WebSocket, JSON  
-- **Networking:** Photon Fusion, Photon PUN 2  
-- **AI & Контроллеры:** Invector AI, TPS/FPS, Game Creator 2  
-- **VR/AR:** ARKit/ARCore, OpenXR  
+- **Game Engines:** Unity3D (2D/3D)
+- **Code:** C#, LINQ, OOP, JSON, Python, JavaScript, WPF, ASP.NET
+- **Networking:** Photon Fusion, Photon PUN 2, WebSocket
+- **AI & Frameworks:** Invector AI, TPS/FPS, Game Creator 2, Hurricane VR, Puppet Master, FinalIK
+- **VR/AR:** ARKit/ARCore, OpenXR, SteamVR, OpenVR, Meta SDK, VIVE SDK, VRIK
 - **UI/UX:** GUI в 2D и VR  
 - **CI/CD:** Git, Jira, Unity Cloud Build  
-- **Graphics and sound:** Adobe Photoshop, SFX/VFX, FMOD
+- **Graphics and sound:** Adobe Photoshop, SFX/VFX, FMOD, Shader Graph, VFX Graph
 - **Ads:** Admob, Unity Ads  
 
 ---
@@ -61,7 +62,7 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 ### BOGG.ART, Penza 
 - **Middle Unity Developer (VR)** 
 - *June 2023 — October 2024* 
-- Project: VR game "Flight over the Penza region" (VDNH). 
+- Project: VR game "Flight over the Penza region" (VDNH), WebGL game. 
 - Mechanic development, GUI migration to VR, realistic sound integration.
 
 ### XOCUS, Penza 
@@ -93,3 +94,14 @@ Faculty: Institute of Informatics and Computer Engineering (IIT)
 - **Rock and Roots** — https://store.steampowered.com/app/2722380/Rock_and_Roots/  
 - **Yandex Games** — https://yandex.ru/games/developer?name=RabidusGames  
 - **VDNH** — https://rg.ru/2023/11/04/reg-pfo/penzenskaia-oblast-priglasila-v-gosti-uchastnikov-vystavki-vdnh.html
+- **The magic of knowledge** - https://vk.com/magiya_znanij
+- **VR Mendeleev Table**
+
+---
+
+## 📌 Contacts
+
+- **[Telegram](https://t.me/rabidus4k)**
+
+---
+
