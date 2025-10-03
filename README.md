@@ -31,14 +31,14 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 ## 🛠️ Key skills
 
 - **Game Engines:** Unity3D (2D/3D)
-- **Code:** C#, LINQ, OOP, JSON, Python, JavaScript, WPF, ASP.NET, UniTask, MVC, MVP
-- **Networking:** Photon Fusion, Photon PUN 2, WebSocket
+- **Code:** C#, LINQ, OOP, JSON, Python, WPF, ASP.NET, UniTask, MVC, MVP
+- **Networking:** Fishnet, Photon Fusion, Photon PUN 2, WebSocket
 - **AI & Frameworks:** Invector AI, TPS/FPS, Game Creator 2, Hurricane VR, Puppet Master, FinalIK
 - **VR/AR:** ARKit/ARCore, OpenXR, SteamVR, OpenVR, Meta SDK, VIVE SDK, VRIK
 - **UI/UX:** GUI в 2D и VR  
 - **CI/CD:** Git, Jira, Unity Cloud Build  
-- **Graphics and sound:** Adobe Photoshop, SFX/VFX, FMOD, Shader Graph, VFX Graph
-- **Ads:** Admob, Unity Ads  
+- **Graphics and sound:** Adobe Photoshop, SFX/VFX, FMOD, Shader Graph, VFX Graph, Blender, Substance Painter
+- **Ads:** Admob, Unity Ads, Firebase  
 
 ---
 
