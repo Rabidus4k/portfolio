@@ -46,34 +46,34 @@ A game developer with over 5 years of experience in Unity. He has worked on comm
 
 ### JOYWAY, Moscow 
 - **Middle Unity Developer (VR, STEAM)**
-- *October 2024 — now*
+- *January 2025 — now*
 - Development of a VR-multiverse project. Game development for Steam.
 
 ### TAU, Moscow 
 - **Senior Unity Developer (VR)** 
-- *February 2024 — October 2024* 
+- *February 2024 — January 2025* 
 - Development of VR firefighting simulators with full immersion.
 
 ### WEB-SYSTEMA 
 - **Middle Unity Developer (WebGL)** 
-- *October 2024 — February 2024* 
+- *November 2024 — February 2024* 
 - Hyper-Casual WebGL games for Yandex Games: mechanics, UI, bugfix.
 
 ### BOGG.ART, Penza 
 - **Middle Unity Developer (VR)** 
-- *June 2023 — October 2024* 
+- *June 2023 — November 2024* 
 - Project: VR game "Flight over the Penza region" (VDNH), WebGL game. 
 - Mechanic development, GUI migration to VR, realistic sound integration.
 
 ### XOCUS, Penza 
 - **Junior Unity Developer (VR)** 
-- *August 2021 — August 2022* 
+- *August 2022 — June 2023* 
 - Projects: *Presentation of Death*, *Rock and Roots*, *Omega Pilot*. 
 - Work with Hurricane VR, Puppet Master, GUI integration, VFX/SFX.
 
 ### NTP Cryptosoft 
 - **Junior C# Developer** 
-- *June 2019 — August 2021* 
+- *November 2019 — August 2022* 
 - Creating native C# code, implementing NPC physics, GUI, CI/CD.
 
 ---
